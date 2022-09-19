@@ -1,20 +1,9 @@
 ## Installation
-This project uses Python 3.9
-The library [Pygame](https://www.pygame.org) is also used. 
-To install pygame:
-Windows installation
-Make sure you install python with the "Add python to PATH" option selected. This means that python, and pip will work for you from the command line.
-There is documentation with python for the "windows installation steps"
-py -m pip install -U pygame --user
-py -m pygame.examples.aliens
-If you get 'PermissionError: [WinError 5] Access is denied', before starting the command prompt right click and "Run as administrator".
-Mac installation
-Recent versions of Mac OS X require pygame 2
-If your examples aren't running and you are using a recent version of Mac OS X; try this line to install pygame instead:
-python3 -m pip install -U pygame --user
+This project uses Python 3.9 with the [Pygame library](https://www.pygame.org).
 
-## Playing the game
-Run the file [run.py](https://github.com/jacobghdean/computer_quest/blob/main/run.py)
+1. Install Pygame
+2. Download the whole 'computer_quest' repository
+3. Run the file [run.py](https://github.com/jacobghdean/computer_quest/blob/main/run.py)
 
 ## Game file path
 The font files come from the "font" folder
