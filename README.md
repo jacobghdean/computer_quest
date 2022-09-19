@@ -1,5 +1,5 @@
 ## Installation
-This project uses Python3. 9
+This project uses Python 3.9
 The library [Pygame](https://www.pygame.org) is also used. 
 To install pygame:
 Windows installation
@@ -14,12 +14,12 @@ If your examples aren't running and you are using a recent version of Mac OS X; 
 python3 -m pip install -U pygame --user
 
 ## Playing the game
-run "run.py"
+Run the file [run.py](https://github.com/jacobghdean/computer_quest/blob/main/run.py)
 
-##Game file path
+## Game file path
 The font files come from the "font" folder
-The picture files(enemy,item box,weapon,background) come from the "graphics" folder
-The sound files(moving, background_music, system_sound,weapon) come from the "music" folder
+The picture files (enemy, item box, weapon, background) come from the "graphics" folder
+The sound files (moving, background_music, system_sound, weapon) come from the "music" folder
 The score record is stored in the file "scores.p"
 The name of the participant is stored in the file "names.p"
 
@@ -27,8 +27,8 @@ The name of the participant is stored in the file "names.p"
 * Use 'W', 'A', 'S', 'D' to move
 * Press 'space' to shoot
 * Press 'K' to slash
-* Press 'J' to throw the grenade
-* Press 'Enter' to open the backpack
-* Press 'backspace' to delete the item
+* Press 'J' to throw a grenade
+* Press 'Enter' to open your backpack
+* Press 'backspace' to delete an item
 
 
