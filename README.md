@@ -28,10 +28,10 @@ Good luck with your shopping, and happy PC building!
 
 ## Gameplay basics
 - Use 'W', 'A', 'S', 'D' to move
-- Press 'space' to shoot
+- Press 'Space' to shoot
 - Press 'K' to slash
 - Press 'J' to throw a grenade
 - Press 'Enter' to open your backpack
-- Press 'backspace' to remove an item from your backpack
+- Press 'Backspace' to remove an item from your backpack
 
 
