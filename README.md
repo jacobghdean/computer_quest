@@ -32,6 +32,6 @@ Good luck with your shopping, and happy PC building!
 - Press 'K' to slash
 - Press 'J' to throw a grenade
 - Press 'Enter' to open your backpack
-- Press 'backspace' to delete an item
+- Press 'backspace' to remove an item from your backpack
 
 
